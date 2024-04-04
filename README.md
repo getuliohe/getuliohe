@@ -1,27 +1,17 @@
-<h1>Hello 👋, I'm @getuliohe and this is my profile</h1>
-<h1>I'm a systems analysis and development student at the federal institute of São Paulo🤓</h1>
-<h2>At the moment I've been interested in development in back-end 👩‍💻</h2>
-<h2>I'm learning Java and the most I learn the most i like it, it has been the perfect language to me</h2>
-<h2>I know how to use python too, but who doen't ?🤷‍♂️</h2>
-<p></p>
-<h2>Some of useless information about me:</h2>
-<ol>
-  <li><h3>I love crochet 🧶, I can chochet anywhere anytime</h3></li>
-  <li><h3>I have a affiction in learning more and more abaout the topics i like, no matter how</h3></li>
-  <li><h3>I can't live without music, i just can't</h3></li>
+# 💫 About Me:
+🔭 I’m currently working on Back-end and Front-end dev<br>🤝 I’m looking for help with learning and tips<br>🌱 I’m currently learning Java, Spring, MySQL, Python, HTML, CSS and JS<br>💬 Ask me about something<br>🎵 I love music, play guitar and sing, I don't do it very well but I love it
 
-</ol>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geh.fur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/getulio-lima-2a7321226/)
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=getuliohe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=getuliohe&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=getuliohe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---- 👋 Hi, I’m @getuliohe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+[![](https://visitcount.itsvg.in/api?id=getuliohe&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<!---
-getuliohe/getuliohe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
